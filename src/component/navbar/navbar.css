@@ -1,0 +1,25 @@
+/* *{
+    margin: 0;
+    padding: 0%;
+}
+.navbar-inner > li  {  
+    padding: 0.5em 05em 0.5em 05em;
+    display: inline-flex;
+
+ }
+ .container-fluid{
+    background-color: rgba(219, 83, 20, 0.313);
+ }
+ .app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .app input{
+    margin-top: 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+ } */
